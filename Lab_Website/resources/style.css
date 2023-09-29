@@ -1,0 +1,36 @@
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.5); 
+    color: #fff; 
+    position: absolute; 
+    bottom: 0; 
+    left: 0; 
+    width: 100%; 
+    padding: 15px; 
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1, h2 {
+    margin: 0;
+}
+.header {
+    text-align: center;
+}
+.contact-info {
+    margin-top: 20px;
+}
+.section {
+    margin-top: 30px;
+}
+.section-title {
+    font-weight: bold;
+}
+.section-content {
+    margin-left: 20px;
+}
